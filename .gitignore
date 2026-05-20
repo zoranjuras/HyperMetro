@@ -14,3 +14,7 @@ build
 !/HyperMetro/task/
 /HyperMetro/task/*
 !/HyperMetro/task/src
+!/HyperMetro/task/Stage1
+!/HyperMetro/task/Stage2
+!/HyperMetro/task/Stage4
+!/HyperMetro/task/Stage5
