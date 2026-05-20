@@ -1,0 +1,270 @@
+{
+  "Linka A": {
+    "1": {
+      "name": "Nemocnice Motol" ,
+      "transfer": null
+    } ,
+    "2": {
+      "name": "Pet\u0159iny" ,
+      "transfer": null
+    } ,
+    "3": {
+      "name": "N\u00e1dra\u017e\u00ed Veleslav\u00edn" ,
+      "transfer": null
+    } ,
+    "4": {
+      "name": "Bo\u0159islavka" ,
+      "transfer": null
+    } ,
+    "5": {
+      "name": "Dejvick\u00e1" ,
+      "transfer": null
+    } ,
+    "6": {
+      "name": "Hrad\u010dansk\u00e1" ,
+      "transfer": null
+    } ,
+    "7": {
+      "name": "Malostransk\u00e1" ,
+      "transfer": null
+    } ,
+    "8": {
+      "name": "Starom\u011bstsk\u00e1" ,
+      "transfer": null
+    } ,
+    "9": {
+      "name": "M\u016fstek" ,
+      "transfer": {
+        "line": "Linka B" ,
+        "station": "M\u016fstek"
+      }
+    } ,
+    "10": {
+      "name": "Muzeum" ,
+      "transfer": {
+        "line": "Linka C" ,
+        "station": "Muzeum"
+      }
+    } ,
+    "11": {
+      "name": "N\u00e1m\u011bst\u00ed M\u00edru" ,
+      "transfer": null
+    } ,
+    "12": {
+      "name": "Ji\u0159\u00edho z Pod\u011bbrad" ,
+      "transfer": null
+    } ,
+    "13": {
+      "name": "Flora" ,
+      "transfer": null
+    } ,
+    "14": {
+      "name": "\u017delivsk\u00e9ho" ,
+      "transfer": null
+    } ,
+    "15": {
+      "name": "Stra\u0161nick\u00e1" ,
+      "transfer": null
+    } ,
+    "16": {
+      "name": "Skalka" ,
+      "transfer": null
+    } ,
+    "17": {
+      "name": "Depo Hostiva\u0159" ,
+      "transfer": null
+    }
+  } ,
+  "Linka B": {
+    "1": {
+      "name": "\u010cern\u00fd Most" ,
+      "transfer": null
+    } ,
+    "2": {
+      "name": "Rajsk\u00e1 zahrada" ,
+      "transfer": null
+    } ,
+    "3": {
+      "name": "Hloub\u011bt\u00edn" ,
+      "transfer": null
+    } ,
+    "4": {
+      "name": "Kolbenova" ,
+      "transfer": null
+    } ,
+    "5": {
+      "name": "Vyso\u010dansk\u00e1" ,
+      "transfer": null
+    } ,
+    "6": {
+      "name": "\u010ceskomoravsk\u00e1" ,
+      "transfer": null
+    } ,
+    "7": {
+      "name": "Palmovka" ,
+      "transfer": null
+    } ,
+    "8": {
+      "name": "Invalidovna" ,
+      "transfer": null
+    } ,
+    "9": {
+      "name": "K\u0159i\u017e\u00edkova" ,
+      "transfer": null
+    } ,
+    "10": {
+      "name": "Florenc" ,
+      "transfer": {
+        "line": "Linka C" ,
+        "station": "Florenc"
+      }
+    } ,
+    "11": {
+      "name": "N\u00e1m\u011bst\u00ed Republiky" ,
+      "transfer": null
+    } ,
+    "12": {
+      "name": "M\u016fstek" ,
+      "transfer": {
+        "line": "Linka B" ,
+        "station": "M\u016fstek"
+      }
+    } ,
+    "13": {
+      "name": "N\u00e1rodn\u00ed t\u0159\u00edda" ,
+      "transfer": null
+    } ,
+    "14": {
+      "name": "Karlovo n\u00e1m\u011bst\u00ed" ,
+      "transfer": null
+    } ,
+    "15": {
+      "name": "And\u011bl" ,
+      "transfer": null
+    } ,
+    "16": {
+      "name": "Sm\u00edchovsk\u00e9 n\u00e1dra\u017e\u00ed" ,
+      "transfer": null
+    } ,
+    "17": {
+      "name": "Radlick\u00e1" ,
+      "transfer": null
+    } ,
+    "18": {
+      "name": "Jinonice" ,
+      "transfer": null
+    } ,
+    "19": {
+      "name": "Nov\u00e9 Butovice" ,
+      "transfer": null
+    } ,
+    "20": {
+      "name": "H\u016frka" ,
+      "transfer": null
+    } ,
+    "21": {
+      "name": "Lu\u017einy" ,
+      "transfer": null
+    } ,
+    "22": {
+      "name": "Luka" ,
+      "transfer": null
+    } ,
+    "23": {
+      "name": "Stod\u016flky" ,
+      "transfer": null
+    } ,
+    "24": {
+      "name": "Zli\u010d\u00edn" ,
+      "transfer": null
+    }
+  } ,
+  "Linka C": {
+    "1": {
+      "name": "Let\u0148any" ,
+      "transfer": null
+    } ,
+    "2": {
+      "name": "Prosek" ,
+      "transfer": null
+    } ,
+    "3": {
+      "name": "St\u0159\u00ed\u017ekov" ,
+      "transfer": null
+    } ,
+    "4": {
+      "name": "L\u00e1dv\u00ed" ,
+      "transfer": null
+    } ,
+    "5": {
+      "name": "Kobylisy" ,
+      "transfer": null
+    } ,
+    "6": {
+      "name": "N\u00e1dra\u017e\u00ed Hole\u0161ovice" ,
+      "transfer": null
+    } ,
+    "7": {
+      "name": "Vltavsk\u00e1" ,
+      "transfer": null
+    } ,
+    "8": {
+      "name": "Florenc" ,
+      "transfer": {
+        "line": "Linka B" ,
+        "station": "Florenc"
+      }
+    } ,
+    "9": {
+      "name": "Hlavn\u00ed n\u00e1dra\u017e\u00ed" ,
+      "transfer": null
+    } ,
+    "10": {
+      "name": "Muzeum" ,
+      "transfer": {
+        "line": "Linka A" ,
+        "station": "Muzeum"
+      }
+    } ,
+    "11": {
+      "name": "I.P.Pavlova" ,
+      "transfer": null
+    } ,
+    "12": {
+      "name": "Vy\u0161ehrad" ,
+      "transfer": null
+    } ,
+    "13": {
+      "name": "Pra\u017esk\u00e9ho povst\u00e1n\u00ed" ,
+      "transfer": null
+    } ,
+    "14": {
+      "name": "Pankr\u00e1c" ,
+      "transfer": null
+    } ,
+    "15": {
+      "name": "Bud\u011bjovick\u00e1" ,
+      "transfer": null
+    } ,
+    "16": {
+      "name": "Ka\u010derov" ,
+      "transfer": null
+    } ,
+    "17": {
+      "name": "Roztyly" ,
+      "transfer": null
+    } ,
+    "18": {
+      "name": "Chodov" ,
+      "transfer": null
+    } ,
+    "19": {
+      "name": "Opatov" ,
+      "transfer": null
+    } ,
+    "20": {
+      "name": "H\u00e1je" ,
+      "transfer": null
+    }
+  }
+}
